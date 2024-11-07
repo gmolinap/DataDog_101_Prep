@@ -1,0 +1,5 @@
+2024-10-01T10:00:00,page1,customerA
+2024-10-01T10:05:00,page2,customerA
+2024-10-01T10:10:00,page1,customerB
+2024-10-01T10:20:00,page3,customerC
+2024-10-01T10:25:00,page2,customerC
